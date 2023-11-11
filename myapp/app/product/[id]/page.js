@@ -21,7 +21,9 @@ const ProductDetail = () => {
     <p className="mr-2 text-lg font-semibold">
         $24.99
     </p>
-
+   </div>
+   <div className="text-md font-medium text-black/[0.5] mt-12">
+       description will go here
     </div>
     </div>
 
